@@ -1,0 +1,30 @@
+body {
+  font-family: Calibri, Verdana, Arial, sans-serif;
+}
+
+.one-half {
+  float: left;
+  margin: 0 2em 2em 0;
+}
+
+ul {
+  margin:0;
+  padding: 0;
+}
+
+li {
+  margin: 0 0.2em 0.2em 0;
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  padding: 0.3em;
+}
+
+#monster-chooser {
+  border: 1px solid #000;
+  padding: 1em;
+  height: 400px;
+  overflow: scroll;
+}
